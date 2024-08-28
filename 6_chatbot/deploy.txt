@@ -1,0 +1,5 @@
+1. code spaces ->copy code files and reqs
+2. create GitHub repository
+3. streamlit server -> create app
+4. link GitHub repo to app
+5. deploy
